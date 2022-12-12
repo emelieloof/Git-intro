@@ -1,2 +1,0 @@
-message = 'hi!'
-print(message)
