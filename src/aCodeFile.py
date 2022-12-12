@@ -1,2 +1,2 @@
-message = 'Hi! I have a dog named Charlie'
+message = 'Hi! I have two dogs named Charlie and Filippa'
 print(message)
