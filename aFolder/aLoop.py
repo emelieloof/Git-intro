@@ -1,5 +1,5 @@
 N = 10
-start = 5 
+start = 1 
 _list = []
 for i in range(N):
     _list.append(start)
