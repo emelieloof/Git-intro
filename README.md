@@ -1,1 +1,1 @@
-This is an into to git
+This is an intro to git
