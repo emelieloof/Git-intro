@@ -1,2 +1,3 @@
-This is an into to git
-Hanna was here
+This is an intro to git
+a good one
+
